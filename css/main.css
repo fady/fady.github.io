@@ -135,6 +135,9 @@ samp {
     display: none;
 }
 
+.copy {font-size: 10px;}
+
+
 .imgc {
     background: transparent;
     border: 5px solid rgba(0, 0, 0, 0.12);
